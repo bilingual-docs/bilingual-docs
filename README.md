@@ -33,6 +33,7 @@
 
 - 提出 Issue 报告问题或分享你的建议。
 - 参与项目讨论，提供你的专业见解和想法。
+- [创建双语文档](https://github.com/bilingual-docs/bilingual-docs/blob/main/createing-bilingual-document.md)并加入本项目。
 
 ## 双语文档标准
 
