@@ -10,13 +10,11 @@
 
 ## 双语文档项目列表
 
-**React**：[仓库链接](https://github.com/hanyujie2002/react) [文档链接](https://bilingual-react.vercel.app)
-
-**Next.js**（计划进行）
-
-**Vue.js**（计划进行）
-
-**Nuxt.js**（计划进行）
+- **React**：[仓库链接](https://github.com/hanyujie2002/react) [文档链接](https://bilingual-react.vercel.app)
+- **自己动手写 Git**：[仓库链接](https://github.com/hanyujie2002/wyag-zh) [文档链接](https://wyag-zh.hanyujie.xyz/bilingual/)
+- **Next.js**（计划进行）
+- **Vue.js**（计划进行）
+- **Nuxt.js**（计划进行）
 
 ## 我们需要您的支持
 
