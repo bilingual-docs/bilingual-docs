@@ -36,4 +36,4 @@
 
 ## 双语文档标准
 
-为了双语文档的整齐规范，我们制作了[双语文档标准](https://github.com/bilingual-docs/bilingual-docs/blob/main/bilingual-guide.md)，如要提交贡献请先阅读此标准。
+为了双语文档的整齐规范，我们制作了[双语文档标准](https://github.com/bilingual-docs/bilingual-docs/blob/main/bilingual-standard.md)，如要提交贡献请先阅读此标准。
