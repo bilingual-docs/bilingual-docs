@@ -34,6 +34,7 @@
 - 提出 Issue 报告问题或分享你的建议。
 - 参与项目讨论，提供你的专业见解和想法。
 - [创建双语文档](https://github.com/bilingual-docs/bilingual-docs/blob/main/createing-bilingual-document.md)并加入本项目。
+- 如果有官方文档组织愿意采用双语文档的形式，可与我们联系，我们会将双语文档仓库移交到官方文档组织手里。
 
 ## 双语文档标准
 
