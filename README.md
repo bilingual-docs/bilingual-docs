@@ -12,6 +12,12 @@
 
 **React**：[仓库链接](https://github.com/hanyujie2002/react) [文档链接](https://bilingual-react.vercel.app)
 
+**Next.js**（计划进行）
+
+**Vue.js**（计划进行）
+
+**Nuxt.js**（计划进行）
+
 ## 我们需要您的支持
 
 有多种方式您可以帮助本项目的发展，请您选择一种或多种进行支持：
