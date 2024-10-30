@@ -28,3 +28,7 @@
 - 提交 Pull Request 以添加或修正文档内容。
 - 提出 Issue 报告问题或分享你的建议。
 - 参与项目讨论，提供你的专业见解和想法。
+
+## 双语文档标准
+
+为了双语文档的整齐规范，我们制作了[双语文档标准](https://github.com/bilingual-docs/bilingual-docs/blob/main/bilingual-guide.md)，如要提交贡献请先阅读此标准。
