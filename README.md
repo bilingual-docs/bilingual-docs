@@ -13,7 +13,7 @@
 - **React**：[仓库链接](https://github.com/hanyujie2002/react) [文档链接](https://bilingual-react.vercel.app)（进行中）
 - **自己动手写 Git**：[仓库链接](https://github.com/hanyujie2002/wyag-zh) [文档链接](https://wyag-zh.hanyujie.xyz/bilingual/)
 - **Next.js**（计划进行）
-- **Vue.js**：[仓库链接](https://github.com/hanyujie2002/Vue) [文档链接](https://bilingual-vue.vercel.app/)（进行中）
+- **Vue.js**：[仓库链接](https://github.com/hanyujie2002/Vue) [文档链接](https://bilingual-vue.vercel.app/guide/introduction.html)（进行中）
 - **Nuxt.js**（计划进行）
 - **Tailwind**（计划进行）
 - **Python**（计划进行）
